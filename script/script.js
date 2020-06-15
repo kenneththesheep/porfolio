@@ -23,7 +23,7 @@ $(document).ready(function() {
     });
 
     var typed = new Typed(".typed", {
-        strings: ["Aspiring Full Stack Developer.", "Web Developer.", "Student."],
+        strings: ["Full Stack Developer.", "Web Developer.", "Teacher."],
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,
